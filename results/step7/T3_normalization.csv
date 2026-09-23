@@ -1,0 +1,4 @@
+,Overall,Bangla script,English,Romanized Bangla,Romanized + English,Mixed script
+Word TF-IDF + SVM (1 seed),-0.000,+0.002,+0.001,+0.002,-0.007,+0.001
+XLM-R-base (3 seeds),+0.003 ± 0.004,+0.001 ± 0.005,+0.002 ± 0.001,+0.014 ± 0.004,+0.003 ± 0.008,+0.003 ± 0.003
+BanglaBERT (1 seed),+0.004,+0.010,+0.000,+0.014,-0.004,-0.003

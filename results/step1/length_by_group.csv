@@ -1,0 +1,6 @@
+group,mean,50%,95%,max
+bangla_script,16.6,12.0,45.0,261.0
+english,14.0,9.0,40.0,225.0
+romanized,7.5,6.0,17.0,59.0
+romanized_codemixed,17.8,14.0,44.0,202.0
+mixed_script,30.5,23.0,86.4,227.0

@@ -1,0 +1,7 @@
+group,train,val,test,total
+bangla_script,30187,6428,6664,43279
+english,31913,6817,6661,45391
+romanized,4820,1045,1017,6882
+romanized_codemixed,12987,2835,2813,18635
+mixed_script,3994,854,824,5672
+total,83901,17979,17979,119859

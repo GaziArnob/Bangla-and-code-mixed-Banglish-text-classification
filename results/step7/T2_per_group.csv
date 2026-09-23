@@ -1,0 +1,12 @@
+,Bangla script,English,Romanized Bangla,Romanized + English,Mixed script
+Word TF-IDF + LR (minimal),0.773,0.830,0.762,0.802,0.823
+Word TF-IDF + SVM (minimal),0.771,0.831,0.758,0.806,0.829
+Char TF-IDF + LR (minimal),0.760,0.813,0.755,0.787,0.810
+Char TF-IDF + SVM (minimal),0.761,0.815,0.755,0.789,0.812
+Word TF-IDF + SVM (normalized),0.773,0.832,0.760,0.799,0.829
+Char TF-IDF + SVM (normalized),0.761,0.817,0.758,0.788,0.812
+XLM-R-base (minimal),0.791 ± 0.004,0.853 ± 0.002,0.762 ± 0.007,0.817 ± 0.005,0.843 ± 0.002
+XLM-R-base (normalized),0.793 ± 0.001,0.855 ± 0.002,0.776 ± 0.003,0.820 ± 0.003,0.846 ± 0.004
+BanglaBERT (minimal),0.794,0.850,0.779,0.835,0.849
+BanglaBERT (normalized),0.803,0.850,0.792,0.831,0.847
+n (test),"8,656","9,077","1,376","3,726","1,135"

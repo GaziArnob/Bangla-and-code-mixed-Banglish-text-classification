@@ -1,0 +1,6 @@
+group,rows,reviews_changed_by_min_%,reviews_changed_by_norm_%,latin_word_tokens,spelling_variants_replaced,replaced_%_of_latin_tokens,word_vocab_min,word_vocab_norm,vocab_reduction_%
+bangla_script,43279,54.0,31.6,0,0,0.0,30389,29827,1.8
+english,45387,15.4,22.7,527275,1342,0.3,18546,18349,1.1
+romanized,6879,8.8,66.9,43060,6162,14.3,7172,6927,3.4
+romanized_codemixed,18631,22.9,73.8,272051,21570,7.9,21908,21454,2.1
+mixed_script,5672,69.8,49.7,23234,366,1.6,17145,16822,1.9

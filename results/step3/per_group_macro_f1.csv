@@ -1,0 +1,6 @@
+model,bangla_script,english,romanized,romanized_codemixed,mixed_script
+word_tfidf_lr,0.7735,0.8297,0.7615,0.8016,0.8226
+word_tfidf_svm,0.7715,0.8312,0.7576,0.8057,0.8286
+char_tfidf_lr,0.7595,0.8134,0.7554,0.7869,0.8097
+char_tfidf_svm,0.7615,0.8152,0.7551,0.7893,0.8119
+n_test,8656.0,9077.0,1376.0,3726.0,1135.0

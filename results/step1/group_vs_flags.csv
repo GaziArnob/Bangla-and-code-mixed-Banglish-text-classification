@@ -1,0 +1,6 @@
+group,"rom=False,cm=False","rom=False,cm=True","rom=True,cm=False","rom=True,cm=True"
+bangla_script,43278,1,0,0
+english,45391,0,0,0
+romanized,0,0,6882,0
+romanized_codemixed,0,6562,0,12073
+mixed_script,906,4644,3,119

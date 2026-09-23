@@ -1,0 +1,69 @@
+{
+  "args": {
+    "model": "xlm-roberta-base",
+    "text": "text_norm",
+    "epochs": 3,
+    "lr": 2e-05,
+    "batch": 32,
+    "max_len": 128,
+    "seed": 43,
+    "limit": 0,
+    "freeze_embeddings": false,
+    "save_model": false
+  },
+  "best_val_macro_f1": 0.8149747750060294,
+  "train_minutes": 32.4,
+  "gpu": "Tesla T4",
+  "val_history": [
+    {
+      "eval_loss": 0.3976895213127136,
+      "eval_macro_f1": 0.8077170920258392,
+      "eval_runtime": 12.4881,
+      "eval_samples_per_second": 767.769,
+      "eval_steps_per_second": 12.011,
+      "epoch": 1.0,
+      "step": 2697
+    },
+    {
+      "eval_loss": 0.3642767071723938,
+      "eval_macro_f1": 0.805566638261863,
+      "eval_runtime": 12.3996,
+      "eval_samples_per_second": 773.25,
+      "eval_steps_per_second": 12.097,
+      "epoch": 2.0,
+      "step": 5394
+    },
+    {
+      "eval_loss": 0.38096052408218384,
+      "eval_macro_f1": 0.8149747750060294,
+      "eval_runtime": 12.4157,
+      "eval_samples_per_second": 772.246,
+      "eval_steps_per_second": 12.081,
+      "epoch": 3.0,
+      "step": 8091
+    },
+    {
+      "eval_loss": 0.38096052408218384,
+      "eval_macro_f1": 0.8149747750060294,
+      "eval_runtime": 12.3662,
+      "eval_samples_per_second": 775.342,
+      "eval_steps_per_second": 12.13,
+      "epoch": 3.0,
+      "step": 8091
+    }
+  ],
+  "tokenizer": {
+    "truncated_test_%": 0.86,
+    "mean_len_test": 24.5,
+    "fertility_test": {
+      "bangla_script": 1.956,
+      "english": 1.329,
+      "romanized": 1.803,
+      "romanized_codemixed": 1.63,
+      "mixed_script": 1.868
+    },
+    "unk_rate_test_%": 0.056
+  },
+  "test_macro_f1": 0.8196776907682888,
+  "test_accuracy": 0.8836045056320401
+}

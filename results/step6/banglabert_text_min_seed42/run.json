@@ -1,0 +1,69 @@
+{
+  "args": {
+    "model": "csebuetnlp/banglabert",
+    "text": "text_min",
+    "epochs": 3,
+    "lr": 2e-05,
+    "batch": 32,
+    "max_len": 128,
+    "seed": 42,
+    "limit": 0,
+    "freeze_embeddings": false,
+    "save_model": false
+  },
+  "best_val_macro_f1": 0.8154966302313927,
+  "train_minutes": 19.7,
+  "gpu": "Tesla T4",
+  "val_history": [
+    {
+      "eval_loss": 0.36492618918418884,
+      "eval_macro_f1": 0.8122240805493225,
+      "eval_runtime": 12.3732,
+      "eval_samples_per_second": 774.903,
+      "eval_steps_per_second": 12.123,
+      "epoch": 1.0,
+      "step": 2697
+    },
+    {
+      "eval_loss": 0.38575583696365356,
+      "eval_macro_f1": 0.8129557769489455,
+      "eval_runtime": 12.6012,
+      "eval_samples_per_second": 760.881,
+      "eval_steps_per_second": 11.904,
+      "epoch": 2.0,
+      "step": 5394
+    },
+    {
+      "eval_loss": 0.39438408613204956,
+      "eval_macro_f1": 0.8154966302313927,
+      "eval_runtime": 12.5844,
+      "eval_samples_per_second": 761.898,
+      "eval_steps_per_second": 11.92,
+      "epoch": 3.0,
+      "step": 8091
+    },
+    {
+      "eval_loss": 0.39438408613204956,
+      "eval_macro_f1": 0.8154966302313927,
+      "eval_runtime": 12.5638,
+      "eval_samples_per_second": 763.143,
+      "eval_steps_per_second": 11.939,
+      "epoch": 3.0,
+      "step": 8091
+    }
+  ],
+  "tokenizer": {
+    "truncated_test_%": 0.69,
+    "mean_len_test": 25.3,
+    "fertility_test": {
+      "bangla_script": 1.343,
+      "english": 2.001,
+      "romanized": 2.395,
+      "romanized_codemixed": 2.262,
+      "mixed_script": 1.538
+    },
+    "unk_rate_test_%": 0.487
+  },
+  "test_macro_f1": 0.8214005079953821,
+  "test_accuracy": 0.8865665415102211
+}

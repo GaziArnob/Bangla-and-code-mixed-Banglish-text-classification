@@ -1,0 +1,19 @@
+comparison,group,n,delta,ci95_lo,ci95_hi,p,sig
+xlmr (norm) - xlmr (min),ALL,23970,0.0069,0.0028,0.0108,0,*
+xlmr (norm) - xlmr (min),bangla_script,8656,0.0069,0.0001,0.0133,0.042,*
+xlmr (norm) - xlmr (min),english,9077,0.0029,-0.004,0.0088,0.396,
+xlmr (norm) - xlmr (min),romanized,1376,0.016,-0.0018,0.0352,0.078,
+xlmr (norm) - xlmr (min),romanized_codemixed,3726,0.0119,0.0009,0.0218,0.028,*
+xlmr (norm) - xlmr (min),mixed_script,1135,0.0051,-0.0116,0.0214,0.514,
+xlmr (min) - word_tfidf_svm (min),ALL,23970,0.0139,0.0087,0.0194,0,*
+xlmr (min) - word_tfidf_svm (min),bangla_script,8656,0.0155,0.0078,0.0241,0,*
+xlmr (min) - word_tfidf_svm (min),english,9077,0.0197,0.0106,0.0293,0,*
+xlmr (min) - word_tfidf_svm (min),romanized,1376,0.003,-0.02,0.0248,0.766,
+xlmr (min) - word_tfidf_svm (min),romanized_codemixed,3726,0.0051,-0.0079,0.0195,0.456,
+xlmr (min) - word_tfidf_svm (min),mixed_script,1135,0.0159,-0.0067,0.0376,0.164,
+xlmr (norm) - word_tfidf_svm (norm),ALL,23970,0.0211,0.0162,0.0258,0,*
+xlmr (norm) - word_tfidf_svm (norm),bangla_script,8656,0.0207,0.0129,0.0285,0,*
+xlmr (norm) - word_tfidf_svm (norm),english,9077,0.0221,0.0139,0.0305,0,*
+xlmr (norm) - word_tfidf_svm (norm),romanized,1376,0.017,-0.0033,0.0393,0.126,
+xlmr (norm) - word_tfidf_svm (norm),romanized_codemixed,3726,0.0239,0.0099,0.0367,0,*
+xlmr (norm) - word_tfidf_svm (norm),mixed_script,1135,0.0204,-0.0017,0.0426,0.07,

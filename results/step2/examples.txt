@@ -1,0 +1,202 @@
+===== bangla_script =====
+RAW : 'খুব সুন্দর হয়েছে ,, ডেলিভারিও দ্রুত পেয়েছি'
+MIN : খুব সুন্দর হয়েছে ,, ডেলিভারিও দ্রুত পেয়েছি
+NORM: খুব সুন্দর হয়েছে , ডেলিভারিও দ্রুত পেয়েছি
+
+RAW : 'প্রোডাক্ট ১০০ তে ১০০। চাইলে সবাই নিতে পারেন'
+MIN : প্রোডাক্ট ১০০ তে ১০০। চাইলে সবাই নিতে পারেন
+NORM: প্রোডাক্ট 100 তে 100। চাইলে সবাই নিতে পারেন
+
+RAW : 'আলহামদুলিল্লাহ প্রডাকট ভালো সাথে চাবির রিং পাইছি।ধন্যবাদ সেলারকে'
+MIN : আলহামদুলিল্লাহ প্রডাকট ভালো সাথে চাবির রিং পাইছি।ধন্যবাদ সেলারকে
+NORM: আলহামদুলিল্লাহ প্রডাকট ভালো সাথে চাবির রিং পাইছি। ধন্যবাদ সেলারকে
+
+RAW : 'ভালো ১ বছর পর রিভিও দিলাম। কম বাজেট এ খুবই ভালো, তবে সাদা টা দিলে খুশি হতাম'
+MIN : ভালো ১ বছর পর রিভিও দিলাম। কম বাজেট এ খুবই ভালো, তবে সাদা টা দিলে খুশি হতাম
+NORM: ভালো 1 বছর পর রিভিও দিলাম। কম বাজেট এ খুবই ভালো, তবে সাদা টা দিলে খুশি হতাম
+
+RAW : 'অনেক ভালো প্রোডাক্ট!!!\nসেলার কে ধন্যবাদ!!!\n#এমপি'
+MIN : অনেক ভালো প্রোডাক্ট!!! সেলার কে ধন্যবাদ!!! এমপি
+NORM: অনেক ভালো প্রোডাক্ট! সেলার কে ধন্যবাদ! এমপি
+
+RAW : 'দাম অনুযায়ী ক্যামেরা অনেকে ভালো সার্ভিস দিচ্ছে...'
+MIN : দাম অনুযায়ী ক্যামেরা অনেকে ভালো সার্ভিস দিচ্ছে...
+NORM: দাম অনুযায়ী ক্যামেরা অনেকে ভালো সার্ভিস দিচ্ছে.
+
+RAW : '১২৮ টাকা পরেছে,এখন ব্যাবহার করে দেখি।'
+MIN : ১২৮ টাকা পরেছে,এখন ব্যাবহার করে দেখি।
+NORM: 128 টাকা পরেছে, এখন ব্যাবহার করে দেখি।
+
+RAW : 'ঠিকঠাক পেয়েছি।নিতে পারেন সবাই।'
+MIN : ঠিকঠাক পেয়েছি।নিতে পারেন সবাই।
+NORM: ঠিকঠাক পেয়েছি। নিতে পারেন সবাই।
+
+===== english =====
+RAW : 'nice product..price could be less'
+MIN : nice product..price could be less
+NORM: nice product. price could be less
+
+RAW : '04 star for not found any SKEMI logo on hock lander.🙂 Otherwise everything was good.'
+MIN : 04 star for not found any SKEMI logo on hock lander.🙂 Otherwise everything was good.
+NORM: 04 star for not found any skemi logo on hock lander. 🙂 otherwise everything was good.
+
+RAW : 'they didn’t give me the tiffin box... it was written there’s a free gift...  really disappointed by this'
+MIN : they didn’t give me the tiffin box... it was written there’s a free gift... really disappointed by this
+NORM: they didn’t give me the tiffin box. it was written there’s a free gift. really disappointed by this
+
+RAW : 'Excellent products.. recommended.. \nthanks daraz and seller....'
+MIN : Excellent products.. recommended.. thanks daraz and seller....
+NORM: excellent products. recommended. thanks daraz and seller.
+
+RAW : 'original product,,, fast delivery.\ngreat offer'
+MIN : original product,,, fast delivery. great offer
+NORM: original product, fast delivery. great offer
+
+RAW : 'very nice product...meyad 2026sal porjonto'
+MIN : very nice product...meyad 2026sal porjonto
+NORM: very nice product. meyad 2026sal porjonto
+
+RAW : 'Penty is too small. Overall the dress is also very small..  This is not international size.\nUnsatisfied'
+MIN : Penty is too small. Overall the dress is also very small.. This is not international size. Unsatisfied
+NORM: penty is too small. overall the dress is also very small. this is not international size. unsatisfied
+
+RAW : 'everything okay.. but the performance of this phone is little bit slow otherwise okay as the price range'
+MIN : everything okay.. but the performance of this phone is little bit slow otherwise okay as the price range
+NORM: everything okay. but the performance of this phone is little bit slow otherwise okay as the price range
+
+===== romanized =====
+RAW : 'onek sundr.'
+MIN : onek sundr.
+NORM: onek sundor.
+
+RAW : 'daraz mart mane osadaron'
+MIN : daraz mart mane osadaron
+NORM: daraz mart mane osadharon
+
+RAW : 'Stick ta shokto nah.. Lage ektu pressure dilei bhenge jabe.. Baka hoye jai.. R foam extra dewa uchit chilo ei rate e..'
+MIN : Stick ta shokto nah.. Lage ektu pressure dilei bhenge jabe.. Baka hoye jai.. R foam extra dewa uchit chilo ei rate e..
+NORM: stick ta shokto na. lage ektu pressure dilei bhenge jabe. baka hoye jay. r foam extra dewa uchit chilo ei rate e.
+
+RAW : 'sompurno vanga, kahwa jabe na, kache gura gura hoiya gasa ata ASA kori nai daraz tahka'
+MIN : sompurno vanga, kahwa jabe na, kache gura gura hoiya gasa ata ASA kori nai daraz tahka
+NORM: sompurno vanga, kahwa jabe na, kache gura gura hoiya gasa eta asa kori nai daraz tahka
+
+RAW : 'packet er pukh kola cilo'
+MIN : packet er pukh kola cilo
+NORM: packet er pukh kola chilo
+
+RAW : 'prodact ta onk valo'
+MIN : prodact ta onk valo
+NORM: prodact ta onek valo
+
+RAW : 'wallets ta valo na chire gese 2 dine'
+MIN : wallets ta valo na chire gese 2 dine
+NORM: wallets ta valo na chire geche 2 dine
+
+RAW : 'joss chilo, kisu bolar nai sobai nite paren'
+MIN : joss chilo, kisu bolar nai sobai nite paren
+NORM: joss chilo, kichu bolar nai sobai nite paren
+
+===== romanized_codemixed =====
+RAW : 'pc mobile2 tar modda aktao kaj kora nh ....kano apnara\namon product dan .... daraz thika kicu nita valo laga kintu kicu khrap jinish paila vai valo laga nh'
+MIN : pc mobile2 tar modda aktao kaj kora nh ....kano apnara amon product dan .... daraz thika kicu nita valo laga kintu kicu khrap jinish paila vai valo laga nh
+NORM: pc mobile2 tar modda aktao kaj kora na . kano apnara emon product dan . daraz thika kichu nita valo laga kintu kichu khrap jinis paila vai valo laga na
+
+RAW : 'allahamdulilah producta khob vlo cilo \nthank u Seller vai ke ter baboher khob vlo cilo'
+MIN : allahamdulilah producta khob vlo cilo thank u Seller vai ke ter baboher khob vlo cilo
+NORM: allahamdulilah producta khub valo chilo thank u seller vai ke ter baboher khub valo chilo
+
+RAW : 'metal hijab pin gulo sundor hoase.daraz-ke Thanks.'
+MIN : metal hijab pin gulo sundor hoase.daraz-ke Thanks.
+NORM: metal hijab pin gulo sundor hoase. daraz-ke thanks.
+
+RAW : 'espikar tah Coto  but sound tah motamote valo ace'
+MIN : espikar tah Coto but sound tah motamote valo ace
+NORM: espikar tah coto but sound tah motamote valo ache
+
+RAW : 'just woow. oneeek Kom price a paisi. 280 tky. tar Sathe free gift o chilo. r delivery charge o free. ak kothay osadharon.'
+MIN : just woow. oneeek Kom price a paisi. 280 tky. tar Sathe free gift o chilo. r delivery charge o free. ak kothay osadharon.
+NORM: just woow. onek kom price a paisi. 280 tky. tar sathe free gift o chilo. r delivery charge o free. ak kothay osadharon.
+
+RAW : 'Fresh Product peyechi...Use Kore Dekhi then inshaAllah review dibo'
+MIN : Fresh Product peyechi...Use Kore Dekhi then inshaAllah review dibo
+NORM: fresh product peyechi. use kore dekhi then inshaallah review dibo
+
+RAW : 'quality khub valo..\namar one plus 7t tw Charge hoy na game'
+MIN : quality khub valo.. amar one plus 7t tw Charge hoy na game
+NORM: quality khub valo. amar one plus 7t tw charge hoy na game
+
+RAW : 'products gula onnk valo je rakom cheyechi oi rakomi dise ...\nasha kori next time kichu order korle ja rakom dibo oirakom tai jeno pai ❤️'
+MIN : products gula onnk valo je rakom cheyechi oi rakomi dise ... asha kori next time kichu order korle ja rakom dibo oirakom tai jeno pai ❤️
+NORM: products gulo onek valo je rakom cheyechi oi rakomi dise . asha kori next time kichu order korle ja rakom dibo oirakom tai jeno pai ❤️
+
+===== mixed_script =====
+RAW : 'আমাকে  ভাঙা নষ্ট কিবোর্ড দেওয়া হয়েছে ।আমি রিপোর্ট করেছিলাম  তারা cancel করে দিছে'
+MIN : আমাকে ভাঙা নষ্ট কিবোর্ড দেওয়া হয়েছে ।আমি রিপোর্ট করেছিলাম তারা cancel করে দিছে
+NORM: আমাকে ভাঙা নষ্ট কিবোর্ড দেওয়া হয়েছে । আমি রিপোর্ট করেছিলাম তারা cancel করে দিছে
+
+RAW : 'অনেক ভালো লেগেছে ব্যবহার করে,আলহামদুলিল্লাহ। \nখুবই প্রিয় Rongon Harbal এর প্রতিটা প্রোডাক্ট। খুব অথেনটিক আর একদম ন্যাচারাল সবগুলো🥰🥰😍'
+MIN : অনেক ভালো লেগেছে ব্যবহার করে,আলহামদুলিল্লাহ। খুবই প্রিয় Rongon Harbal এর প্রতিটা প্রোডাক্ট। খুব অথেনটিক আর একদম ন্যাচারাল সবগুলো🥰🥰😍
+NORM: অনেক ভালো লেগেছে ব্যবহার করে, আলহামদুলিল্লাহ। খুবই প্রিয় rongon harbal এর প্রতিটা প্রোডাক্ট। খুব অথেনটিক আর একদম ন্যাচারাল সবগুলো🥰🥰😍
+
+RAW : 'প্রোডাক্ট সব কিছু ঠিক আছে।কিন্তু Security Verify করতে পারিনি।না হয়নি জানিনা। তবে সাউন্ড কলেটি অসাধারন। অনেক ভালো লাগছে🥰🥰🥰🥰'
+MIN : প্রোডাক্ট সব কিছু ঠিক আছে।কিন্তু Security Verify করতে পারিনি।না হয়নি জানিনা। তবে সাউন্ড কলেটি অসাধারন। অনেক ভালো লাগছে🥰🥰🥰🥰
+NORM: প্রোডাক্ট সব কিছু ঠিক আছে। কিন্তু security verify করতে পারিনি। না হয়নি জানিনা। তবে সাউন্ড কলেটি অসাধারন। অনেক ভালো লাগছে🥰🥰🥰🥰
+
+RAW : '১ বছর এর  ওয়ারেন্টি ছিল, ১৩ তম মাসে এসে Key গুলো কাজ করে না। USB লাগালে শুধু light ই জলে 😵\u200d💫☹️'
+MIN : ১ বছর এর ওয়ারেন্টি ছিল, ১৩ তম মাসে এসে Key গুলো কাজ করে না। USB লাগালে শুধু light ই জলে 😵‍💫☹️
+NORM: 1 বছর এর ওয়ারেন্টি ছিল, 13 তম মাসে এসে key গুলো কাজ করে না। usb লাগালে শুধু light ই জলে 😵‍💫☹️
+
+RAW : 'the product is  good and i was too nervous becuse of its price is too low so i was afraid. to the seller i want to say that is plz separate the power button and'
+MIN : the product is good and i was too nervous becuse of its price is too low so i was afraid. to the seller i want to say that is plz separate the power button and 
+NORM: the product is good and i was too nervous becuse of its price is too low so i was afraid. to the seller i want to say that is plz separate the power button and 
+
+RAW : 'One of best watch ⌚\nঅনেক ভালো মনে হচ্ছে আলহামদুলিল্লাহ। \n১ মাস + লেগেছে হাতে পেতে যেহেতু বাহির থেকে এসেছে সেজন্য এত সময় লেগেছে মনে হয়।'
+MIN : One of best watch ⌚ অনেক ভালো মনে হচ্ছে আলহামদুলিল্লাহ। ১ মাস + লেগেছে হাতে পেতে যেহেতু বাহির থেকে এসেছে সেজন্য এত সময় লেগেছে মনে হয়।
+NORM: one of best watch ⌚ অনেক ভালো মনে হচ্ছে আলহামদুলিল্লাহ। 1 মাস + লেগেছে হাতে পেতে যেহেতু বাহির থেকে এসেছে সেজন্য এত সময় লেগেছে মনে হয়।
+
+RAW : '১০০% অরিজিনাল পণ্য, দামেও কম পেয়েছি বাজার মূল্য থেকে, প্যাকাজিং ও ভালো ছিল। ধন্যবাদ সেলার কে।\n\nProduct : ★★★★★\nPackaging : ★★★★★\nValidity Date : ★★★★★'
+MIN : ১০০% অরিজিনাল পণ্য, দামেও কম পেয়েছি বাজার মূল্য থেকে, প্যাকাজিং ও ভালো ছিল। ধন্যবাদ সেলার কে। Product : ★★★★★ Packaging : ★★★★★ Validity Date : ★★★★★
+NORM: 100% অরিজিনাল পণ্য, দামেও কম পেয়েছি বাজার মূল্য থেকে, প্যাকাজিং ও ভালো ছিল। ধন্যবাদ সেলার কে। product : ★★★★★ packaging : ★★★★★ validity date : ★★★★★
+
+RAW : 'wow  সবকিছু ঠিকঠাকই পেয়েছে ঠিক যেমনটা দেখানো হয়েছিল তেমনটাই।🎁পেকেটিংটা ও খুব সুন্দর ছিলো।ধন্যবাদ সেলারকে ধন্যবাদ দারাজকে💞।'
+MIN : wow সবকিছু ঠিকঠাকই পেয়েছে ঠিক যেমনটা দেখানো হয়েছিল তেমনটাই।🎁পেকেটিংটা ও খুব সুন্দর ছিলো।ধন্যবাদ সেলারকে ধন্যবাদ দারাজকে💞।
+NORM: wow সবকিছু ঠিকঠাকই পেয়েছে ঠিক যেমনটা দেখানো হয়েছিল তেমনটাই। 🎁পেকেটিংটা ও খুব সুন্দর ছিলো। ধন্যবাদ সেলারকে ধন্যবাদ দারাজকে💞।
+
+===== rows touched by URL / mention / hashtag / HTML rules =====
+RAW : 'Only 10Taka That is Very funny 😂😟tnx Unilever #Daraz.'
+MIN : Only 10Taka That is Very funny 😂😟tnx Unilever Daraz.
+
+RAW : '#ধন্যবাদ দারাজ ও সেলার কে। আমি সবকিছু ঠিকঠাক পেয়েছি আলহামদুলিল্লাহ। ডেলিভারি বয়কেও অনেক ধন্যবাদ সু্ন্দর ভাবে প্রোডাক্ট টি পৌঁছে দেওয়ার জন্য।'
+MIN : ধন্যবাদ দারাজ ও সেলার কে। আমি সবকিছু ঠিকঠাক পেয়েছি আলহামদুলিল্লাহ। ডেলিভারি বয়কেও অনেক ধন্যবাদ সু্ন্দর ভাবে প্রোডাক্ট টি পৌঁছে দেওয়ার জন্য।
+
+RAW : 'cover o problem.....#Mahi Chowdhury... camera mil nay'
+MIN : cover o problem.....Mahi Chowdhury... camera mil nay
+
+RAW : 'For More Details: https://youtu.be/pb_oxD3syks?feature=shared'
+MIN : For More Details: <URL>
+
+RAW : '#1.1 প্রোডাক্ট কোয়ালিটি খুবই ভালো। যেমন টা দেখতে তেমনই পেয়েছি। প্যাকেজিং ভালো ছিলো, অথেনটিক প্রোডাক্ট,সবাই নিতে পারেন।'
+MIN : 1.1 প্রোডাক্ট কোয়ালিটি খুবই ভালো। যেমন টা দেখতে তেমনই পেয়েছি। প্যাকেজিং ভালো ছিলো, অথেনটিক প্রোডাক্ট,সবাই নিতে পারেন।
+
+RAW : 'Very good test. \nThank you Daraz. \n#JoyDBiswas'
+MIN : Very good test. Thank you Daraz. JoyDBiswas
+
+RAW : 'Just superb as well as a fantastic one. I just loved this. You can also buy it. Thank you #daraz.'
+MIN : Just superb as well as a fantastic one. I just loved this. You can also buy it. Thank you daraz.
+
+RAW : 'অনেক ভালো।  সাইজ ঠিক ঠাক আছে।নিউ প্রডাক্ট।#1.1'
+MIN : অনেক ভালো। সাইজ ঠিক ঠাক আছে।নিউ প্রডাক্ট।1.1
+
+RAW : '#634247849137417 order receive but remote can not work.how can i used it. this is my first time order and i am unhappy. pls solved my problem as i trust your se'
+MIN : 634247849137417 order receive but remote can not work.how can i used it. this is my first time order and i am unhappy. pls solved my problem as i trust your ser
+
+RAW : "MAN'S Fair & Lovely সহ অন্যান্য products গুলোও যথেষ্ট ভাল ছিলো....এক কথায় অসাধারণ!!\ntnQ #Daraz 💞"
+MIN : MAN'S Fair & Lovely সহ অন্যান্য products গুলোও যথেষ্ট ভাল ছিলো....এক কথায় অসাধারণ!! tnQ Daraz 💞
+
+RAW : "Very good product due to it's price ✨\n#super quality full 🌝\n#You can bye from here ✅"
+MIN : Very good product due to it's price ✨ super quality full 🌝 You can bye from here ✅
+
+RAW : 'গিফট্ পেয়ে খুব ভালো লাগছে। সেলার কে অনেক অনেক ধন্যবাদ। দাম ও অনেক কম ছিলো। আর সাথে ১০% ক্যাশব্যাক তো আছেই। খুব ফাস্ট ডেলিভারি পেয়েছি। অনেকদিন স্টক এর জন্য অপে'
+MIN : গিফট্ পেয়ে খুব ভালো লাগছে। সেলার কে অনেক অনেক ধন্যবাদ। দাম ও অনেক কম ছিলো। আর সাথে ১০% ক্যাশব্যাক তো আছেই। খুব ফাস্ট ডেলিভারি পেয়েছি। অনেকদিন স্টক এর জন্য অপে
+

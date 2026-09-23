@@ -1,0 +1,7 @@
+group,negative,positive,total,neg_%,share_%
+bangla_script,8720,34559,43279,20.1,36.1
+english,6106,39285,45391,13.5,37.9
+romanized,1372,5510,6882,19.9,5.7
+romanized_codemixed,3731,14904,18635,20.0,15.5
+mixed_script,1244,4428,5672,21.9,4.7
+total,21173,98686,119859,17.7,100.0

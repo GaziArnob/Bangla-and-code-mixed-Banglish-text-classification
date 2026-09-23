@@ -1,0 +1,55 @@
+comparison,group,delta,ci95_lo,ci95_hi,p,sig
+banglabert seed42: norm - min,ALL,0.0042,0.0007,0.0076,0.018,*
+banglabert seed42: norm - min,bangla_script,0.0098,0.0046,0.015,0.002,*
+banglabert seed42: norm - min,english,0.0004,-0.007,0.0073,0.904,
+banglabert seed42: norm - min,romanized,0.0137,0.0002,0.0298,0.05,
+banglabert seed42: norm - min,romanized_codemixed,-0.0039,-0.0126,0.0046,0.398,
+banglabert seed42: norm - min,mixed_script,-0.0027,-0.0172,0.0126,0.692,
+word_tfidf_svm seed0: norm - min,ALL,-0.0002,-0.0021,0.0016,0.862,
+word_tfidf_svm seed0: norm - min,bangla_script,0.0017,-0.0003,0.0034,0.068,
+word_tfidf_svm seed0: norm - min,english,0.0005,-0.0018,0.0027,0.704,
+word_tfidf_svm seed0: norm - min,romanized,0.002,-0.0127,0.0151,0.768,
+word_tfidf_svm seed0: norm - min,romanized_codemixed,-0.0069,-0.0151,0.0008,0.076,
+word_tfidf_svm seed0: norm - min,mixed_script,0.0006,-0.0048,0.0056,0.846,
+xlmr seed42: norm - min,ALL,0.0069,0.0029,0.0108,0.0,*
+xlmr seed42: norm - min,bangla_script,0.0069,0.0004,0.0135,0.04,*
+xlmr seed42: norm - min,english,0.0029,-0.0029,0.0088,0.3,
+xlmr seed42: norm - min,romanized,0.016,-0.0034,0.0354,0.108,
+xlmr seed42: norm - min,romanized_codemixed,0.0119,0.0016,0.0226,0.018,*
+xlmr seed42: norm - min,mixed_script,0.0051,-0.0111,0.0229,0.53,
+xlmr seed43: norm - min,ALL,0.0003,-0.003,0.0035,0.922,
+xlmr seed43: norm - min,bangla_script,-0.0008,-0.0056,0.0039,0.738,
+xlmr seed43: norm - min,english,0.0014,-0.0035,0.0067,0.566,
+xlmr seed43: norm - min,romanized,0.009,-0.0073,0.0248,0.284,
+xlmr seed43: norm - min,romanized_codemixed,-0.0031,-0.0133,0.0065,0.564,
+xlmr seed43: norm - min,mixed_script,0.0038,-0.009,0.018,0.65,
+xlmr seed44: norm - min,ALL,0.0009,-0.0022,0.0044,0.592,
+xlmr seed44: norm - min,bangla_script,-0.0016,-0.0066,0.0034,0.59,
+xlmr seed44: norm - min,english,0.0013,-0.0039,0.0061,0.63,
+xlmr seed44: norm - min,romanized,0.0171,0.0012,0.0324,0.028,*
+xlmr seed44: norm - min,romanized_codemixed,0.0009,-0.0086,0.0103,0.918,
+xlmr seed44: norm - min,mixed_script,0.0,-0.0144,0.0132,0.986,
+banglabert - xlmr (min),ALL,0.0077,0.0033,0.0122,0.0,*
+banglabert - xlmr (min),bangla_script,0.0066,-0.0015,0.0139,0.106,
+banglabert - xlmr (min),english,-0.0011,-0.0084,0.0066,0.772,
+banglabert - xlmr (min),romanized,0.0182,-0.0038,0.0402,0.096,
+banglabert - xlmr (min),romanized_codemixed,0.0239,0.0117,0.0362,0.0,*
+banglabert - xlmr (min),mixed_script,0.0047,-0.0167,0.0235,0.658,
+banglabert - word_tfidf_svm (min),ALL,0.0216,0.0167,0.0265,0.0,*
+banglabert - word_tfidf_svm (min),bangla_script,0.0221,0.0137,0.03,0.0,*
+banglabert - word_tfidf_svm (min),english,0.0186,0.0105,0.0268,0.0,*
+banglabert - word_tfidf_svm (min),romanized,0.0212,-0.0036,0.0449,0.102,
+banglabert - word_tfidf_svm (min),romanized_codemixed,0.029,0.0159,0.0405,0.0,*
+banglabert - word_tfidf_svm (min),mixed_script,0.0206,-0.0019,0.0452,0.07,
+banglabert - xlmr (norm),ALL,0.0049,0.0008,0.0093,0.016,*
+banglabert - xlmr (norm),bangla_script,0.0095,0.0034,0.0159,0.004,*
+banglabert - xlmr (norm),english,-0.0036,-0.011,0.0047,0.4,
+banglabert - xlmr (norm),romanized,0.0159,-0.0041,0.0356,0.132,
+banglabert - xlmr (norm),romanized_codemixed,0.0081,-0.0028,0.0186,0.132,
+banglabert - xlmr (norm),mixed_script,-0.003,-0.0219,0.0156,0.772,
+banglabert - word_tfidf_svm (norm),ALL,0.026,0.0208,0.0311,0.0,*
+banglabert - word_tfidf_svm (norm),bangla_script,0.0302,0.0221,0.0385,0.0,*
+banglabert - word_tfidf_svm (norm),english,0.0185,0.0094,0.0274,0.0,*
+banglabert - word_tfidf_svm (norm),romanized,0.0328,0.0142,0.0525,0.002,*
+banglabert - word_tfidf_svm (norm),romanized_codemixed,0.032,0.019,0.0445,0.0,*
+banglabert - word_tfidf_svm (norm),mixed_script,0.0174,-0.0041,0.0381,0.126,
